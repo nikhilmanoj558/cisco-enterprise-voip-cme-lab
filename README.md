@@ -1,5 +1,3 @@
-@'
-
 \# Cisco Enterprise VoIP / CME PBX Lab
 
 
@@ -135,4 +133,5 @@ PHONE-103 initially failed to register with CME and repeatedly produced:
 ```text
 
 Phone-Reg-Rej
+```
 
